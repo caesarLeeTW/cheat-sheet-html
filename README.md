@@ -1,2 +1,2 @@
 # cheat-sheet-html
-This repository is created mainly for a review off all html tags.
+This repository is created mainly for a review of all html stuff.
